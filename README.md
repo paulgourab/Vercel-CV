@@ -32,11 +32,11 @@ To run this project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/paulgourab/Vercel-CV.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd your-repo-name
+   cd Vercel-CV/app
    ```
 3. **Install dependencies**:
    ```bash
